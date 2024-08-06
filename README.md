@@ -57,7 +57,6 @@ To visualize wind data:
 ## File Structure
 Here's a detailed README.md file for your GitHub repository:
 
-```markdown
 # ThingsBoard PE Custom Windrose Widgets
 
 This repository contains two custom windrose widgets for ThingsBoard PE. These widgets display wind data in a polar coordinate system, offering two distinct functionalities: 
@@ -114,7 +113,6 @@ To visualize wind data:
 3. The widget will automatically update and display the windrose chart based on the provided data.
 
 ## File Structure
-```
 thingsboard-windrose-widgets/
 │
 ├── avg.css           # Styles for the Average Windrose Widget

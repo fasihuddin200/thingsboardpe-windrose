@@ -56,6 +56,7 @@ To visualize wind data:
 
 ## File Structure
 thingsboard-windrose-widgets/
+.
 │
 ├── avg.css           # Styles for the Average Windrose Widget
 ├── avg.html          # HTML structure for the Average Windrose Widget

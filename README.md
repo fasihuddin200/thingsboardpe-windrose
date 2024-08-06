@@ -47,7 +47,7 @@ These custom widgets are built using JavaScript, HTML, and CSS. They utilize the
 
 ### Data Configuration
 Make sure your ThingsBoard PE instance has the necessary data keys:
-- `Wind_Direction_Sensor`: Timeseries data for wind direction (in degrees).
+- `Wind_Direction`: Timeseries data for wind direction (in degrees).
 - `Wind_Speed`: Timeseries data for wind speed (in km/h).
 
 ### Example
@@ -84,7 +84,7 @@ Contributions are welcome! Please fork this repository and submit pull requests 
 5. Open a pull request
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
 
 ## Contact
 For any questions or suggestions, please reach out to:

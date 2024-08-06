@@ -1,0 +1,14 @@
+#windrose-chart {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+}
+
+@media (max-width: 600px) {
+    #windrose-chart {
+        width: 100%;
+        height: 100%;
+    }
+}

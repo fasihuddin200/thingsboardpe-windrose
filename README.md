@@ -55,7 +55,7 @@ To visualize wind data:
 3. The widget will automatically update and display the windrose chart based on the provided data.
 
 ## File Structure
-thingsboard-windrose-widgets/
+```
 .
 │
 ├── avg.css           # Styles for the Average Windrose Widget
@@ -69,6 +69,7 @@ thingsboard-windrose-widgets/
 ├── resources.txt      # Resources used in the project
 │
 └── README.md         # This README file
+```
 
 ## Contributing
 Contributions are welcome! Please fork this repository and submit pull requests with any improvements or bug fixes.

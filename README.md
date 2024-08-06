@@ -23,6 +23,8 @@ These custom widgets are built using JavaScript, HTML, and CSS. They utilize the
 - **Average Windrose Widget:** Displays the average wind speeds in various directions.
 - Responsive design to adapt to different screen sizes.
 
+![Windrose Widgets Screenshot](windroses-screenshot.png)
+
 ## Installation
 ### Prerequisites
 - ThingsBoard PE instance
